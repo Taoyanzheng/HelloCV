@@ -7,3 +7,4 @@ https://gitee.com/taoyanzheng/git_training                              Gitee仓
 https://www.yuque.com/g/pinganxile-lypjl/hwgarh/qll6pvg3bqwhg5ru/collaborator/join?token=z9d2lCSJTu14xeBj&source=doc_collaborator# 《cmake学习记录》
 https://www.yuque.com/g/pinganxile-lypjl/hwgarh/nstwknbwzweaavxc/collaborator/join?token=CUsZufZuZY9yXmdG&source=doc_collaborator# 《cmake实践任务》
 https://www.yuque.com/g/pinganxile-lypjl/hwgarh/oc19vc6qox8f21mg/collaborator/join?token=iJwNBCr0cuhjHDrm&source=doc_collaborator# 《LLM石头剪刀布》
+https://www.yuque.com/g/pinganxile-lypjl/hwgarh/ft1qlhshrb5vo6vz/collaborator/join?token=qDzsz3chQEZnFMA8&source=doc_collaborator# 《ROS2学习报告》
